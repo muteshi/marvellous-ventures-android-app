@@ -133,3 +133,6 @@ package-lock.json
 
 #google
 /app/config/google.js
+
+#app
+app.json
